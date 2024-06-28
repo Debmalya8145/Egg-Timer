@@ -19,7 +19,7 @@ macOS with Xcode installed (minimum version 12.0).
 CocoaPods for managing dependencies (if applicable).
 # Clone the Repository
 bash
-git clone https://github.com/DebmalyaSantra/egg-timer-app.git
+git clone [https://github.com/DebmalyaSantra/egg-timer-app.git](https://github.com/dd6924/Egg-Timer.git)
 cd egg-timer-app
 # Install Dependencies
 If your project uses CocoaPods:
